@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 44 in 38 lines: NQIES: · MATERIAL · 048 Thk ALUM: ALLOY · FINISH · BLACK ANODIZE · 4*00 · Z.00 · 187 · TOLERANCES · XX · 015 · XXX
 - **Title block:** (278, 3)–(431, 71) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK sysTEMS · DRN: · MPW 2/82 · ENG · Mrw · M777 HEATSinK · CKD · For · SA 14-035 ) · APP · SCALE · ISSUE · 777 -03-009
 
-Every curve, box, word and wire group: [19xx - M777 - DOC - 777-03-009 - REMOVE BURRS SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-009%20-%20REMOVE%20BURRS%20SHARP%20EDGES%20(traced).json) (the CAD file: `19xx - M777 - DOC - 777-03-009 - REMOVE BURRS SHARP EDGES (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M777 - DOC - 777-03-009 - REMOVE BURRS SHARP EDGES (traced).json](../MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-009%20-%20REMOVE%20BURRS%20SHARP%20EDGES%20%28traced%29.json) (the CAD file: `19xx - M777 - DOC - 777-03-009 - REMOVE BURRS SHARP EDGES (traced).dxf`).
 
 ## Full text
 

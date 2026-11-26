@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 54 in 46 lines: #4-40 UNC ~ 2 PLACES · #4-AOUNC 2 PLACES · .990 · 1.03 · 220 · 20 · 3.600 · 25 · 4.00 · 2.50 · 220 · #4-40 UNC-2 PLACES
 - **Title block:** (278, 3)–(431, 71) mm: 6/81 · WAS ADDED · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN RMAHONE y · ENG MA 6/34 · M777 · CKD: · BACK PLANE · MTG ANGLES · APP · SCALE 1:1 · ISSUE · 777-03-005 · 015 · 005
 
-Every curve, box, word and wire group: [19xx - M777 - DOC - 777-03-005 - EINISH PAINT GREX TEXCOTE VINYL (traced).json](../MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-005%20-%20EINISH%20PAINT%20GREX%20TEXCOTE%20VINYL%20(traced).json) (the CAD file: `19xx - M777 - DOC - 777-03-005 - EINISH PAINT GREX TEXCOTE VINYL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M777 - DOC - 777-03-005 - EINISH PAINT GREX TEXCOTE VINYL (traced).json](../MECHANICAL/19xx%20-%20M777%20-%20DOC%20-%20777-03-005%20-%20EINISH%20PAINT%20GREX%20TEXCOTE%20VINYL%20%28traced%29.json) (the CAD file: `19xx - M777 - DOC - 777-03-005 - EINISH PAINT GREX TEXCOTE VINYL (traced).dxf`).
 
 ## Full text
 
