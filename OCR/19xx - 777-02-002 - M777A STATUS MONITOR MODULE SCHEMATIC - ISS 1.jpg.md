@@ -1,5 +1,5 @@
 # 19xx - 777-02-002 - M777A STATUS MONITOR MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M777](../../../../PAGES/M777.md)
+Wiki page: [M777](../)
 
 
 - **Year:** unknown (title block (read by eye))
